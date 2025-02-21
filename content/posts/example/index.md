@@ -14,11 +14,11 @@ In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogei
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Überschrift 1
+# Das solltest du dir nicht entgehen lassen 
 
 So sieht die grösste Überschrift aus (H1).
 
-## Überschrift 2
+## Must visit in Spanien
 
 Dies ist die Überschrift 2 (H2).
 
@@ -68,7 +68,7 @@ Und so eine nummerierte Liste:
 3. Haec et tu ita posuisti, et verba vestra sunt.
 4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
-## Bilder
+## Die besten patatas bravas der Welt
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
