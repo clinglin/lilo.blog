@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
-image = "/img/default-author.jpg"
+image = "img_1405.jpeg"
+description = "Falls du es genau so magst zu reisen, gut zu essen und deine zeit in guter Gesellschaft an tollen Orten zu verbringen, dann ist diese Seite genau das richtige für dich."
 +++
-![](/img/default-author.jpg)
+![](img_1405.jpeg)
 
 ## My Name
 
 mail@example.org
 
-Here should be some info about me...
+Falls du es genau so magst zu reisen, gut zu essen und deine zeit in guter Gesellschaft an tollen Orten zu verbringen, dann ist diese Seite genau das richtige für dich.
