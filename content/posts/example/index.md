@@ -72,7 +72,7 @@ Und so eine nummerierte Liste:
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![Entdecke die Welt aus einer neuen Perspektive](img_1402.jpeg "Reise mit mir")
+![Entdecke die Welt aus einer neuen Perspektive](img_1403.jpeg "Reise mit mir")
 
 **Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
 
